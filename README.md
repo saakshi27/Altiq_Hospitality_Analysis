@@ -1,5 +1,5 @@
 # AtliQ_Hospitality_Analysis_PowerBI
-As part of the September, 2022 Codebaiscs resume challenge, I have built a dashboard in Power BI to analyze three months sales data of different AtliQ hotels across four different cities.
+As part of the September, 2022 Codebasics resume challenge, I have built a dashboard in Power BI to analyze three months sales data of different AtliQ hotels across four different cities.
 AtliQ Hospitality Analysis - PowerBI
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
